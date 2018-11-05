@@ -1,7 +1,10 @@
-# ExampleProjectRepo
+# Calendar
 
 ### I. Initiative
-Overview of the project itself
+The aim of this project is to create a command line text based program that is able to read and write calendar entries from a text file. The program will be required to:
+- Display all of the calendar entries and display them into a readable format.
+- Be able to enter new calendar entries into the text file.
+- edit the current entries in the file if there are discrepancies.
 
 ### II. Epics and User Stories
 

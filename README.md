@@ -10,14 +10,22 @@ The aim of this project is to create a command line text based program that is a
 
 ##### Epics
 Outlining the main fuctions of the game
+- Read calendar entries
+- Edit calendar entries
+- Display calendar dates
+- Enter new dates into the calendar
+
 
 ##### Non-Functional Requirements
 Asthetic or non essential requirements
-
+- Sort the calendar dates
+- Allow multiple files to be read
+- Format the output to look like a traditional calendar.
 ##### User Stories
-Written in the format: 
+As a User, I would like to be able to edit the calendar files in order to correct any errors that are made.
+As a User, I would like to enter new dates into the calendar to ensure no new appointment is forgotten
 
-As a player, I would _____
+
 
 
 

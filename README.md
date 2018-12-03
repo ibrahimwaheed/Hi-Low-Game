@@ -29,7 +29,7 @@ This is a gambling game where the user guesses whether the number they roll is h
 The program will address the requirements as it will use a randomiser function in order to generate random numbers from 1-10 and will then display this for the computer and player respectively, before the players number is rolled though the program would ask the player whether they think their number will be higher or lower than the one the computer rolled. After the player has made their choice the program continues and then displays the players number and depending on whether the user guessed right or wrong the program shows either a You win or lose message, the program then asks the user whether they would like another turn or not, if the user chooses no then the programme closes while if they choose yes then the game returns to the beginning and loops this function.
 
 ### III. Genre
-
+This game would fall under the genre of Gambling as the player is playing against a computer and they are gambling on the chance of the player getting a number that is either higher or lower than the computers number and then either winning or losing the game as there is no way to predict what number the player will get.
 ### IV. Technical Details
 
 ##### Platform

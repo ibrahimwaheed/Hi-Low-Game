@@ -40,6 +40,7 @@ The language used to create the program was C++ this was because it enabled us t
 
 ##### Programming Challenges
 State the programing challenges you are trying to overcome
+The programming challenges that needed to be overcome were problems such as how was the program able to repeat the process until the user didn't want to play again. Another problem that needs to be overcome is the random number generator, this needs to be overcome as it will make the game more challenging since the player won't know what number will be used each time.
  
 ##### Constructing And Implementing My Code
 

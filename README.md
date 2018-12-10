@@ -36,7 +36,7 @@ This game would fall under the genre of Gambling as the player is playing agains
 
 
 ##### Programming Language/Enviroment
-The language used to create the program was C++ this was because it enabled us to use an IDE which was extremely helpful as it allowed 
+The language used to create the program was C++ this was because it enabled us to use an IDE which was extremely helpful as it allowed us to see if we were making any errors as we were coding which made it easier to spot mistakes as they are made which dramatically reduces the time taken to create a program as there won't be as much syntax errors.
 
 ##### Programming Challenges
 State the programing challenges you are trying to overcome

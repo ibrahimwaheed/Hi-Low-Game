@@ -46,6 +46,7 @@ The programming challenges that needed to be overcome were problems such as how 
 
 Think of this as the method. How will you go about building your program?
 
+
 ##### Algorithms
 
 Explanation of the algorithms behind your program

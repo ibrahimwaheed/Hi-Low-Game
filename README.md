@@ -33,7 +33,7 @@ This game would fall under the genre of Gambling as the player is playing agains
 ### IV. Technical Details
 
 ##### Platform
-
+The platform that was used to code the program was REPL.IT as it was able to compile and execute the code without having to change the file to a .exe file.
 
 ##### Programming Language/Enviroment
 The language used to create the program was C++ this was because it enabled us to use an IDE which was extremely helpful as it allowed us to see if we were making any errors as we were coding which made it easier to spot mistakes as they are made which dramatically reduces the time taken to create a program as there won't be as much syntax errors.
@@ -41,20 +41,9 @@ The language used to create the program was C++ this was because it enabled us t
 ##### Programming Challenges
 State the programing challenges you are trying to overcome
 The programming challenges that needed to be overcome were problems such as how was the program able to repeat the process until the user didn't want to play again. Another problem that needs to be overcome is the random number generator, this needs to be overcome as it will make the game more challenging since the player won't know what number will be used each time.
- 
-##### Constructing And Implementing My Code
 
-Think of this as the method. How will you go about building your program?
-
-
-##### Algorithms
-
-Explanation of the algorithms behind your program
- 
 ##### Coding Standards 
-Standard for the code you will be writting 
-
-### V. Research
+The coding standards used in the development of this task were done so in order to make the code easy and clear to read and understand. This was achieved by focusing on the layout of the code to ensure that it was well structured. Additionally, the variables and functions all used the same syntax to ensure that there wasn't any parts of the code that weren't working. Furthermore, comments were added to the code in order to allow the user to explain what each section of the code was carrying out in order to show their understanding of the code whilst also informing any people that were new to programming what the code was doing.
 
 ### VI. Project Management
 
